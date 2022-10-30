@@ -1,0 +1,46 @@
+References
+[1] Committee to Develop Guidelines for the Management of Patients with Atrial Fibrillation. A
+Report of the American College of Cardiology/ American Heart Association Task Force on
+Practice Guidelines and the European Society of Cardiology Committee for Practice Guidelines
+and Policy Conferences. Circulation 2001, 104, 2118–2150.
+[2] Andersen, R.S.; Peimankar, A.; Puthusserypady, S. A deep learning approach for real-time
+detection of atrial fibrillation. Expert Syst. Appl. 2019, 115, 465–473.
+[3] Lai, D.; Bu, Y.; Su, Y.; Zhang, X.; Ma, C.S. Non-Standardized Patch-Based ECG Lead Together
+with Deep Learning Based Algorithm for Automatic Screening of Atrial Fibrillation. IEEE J.
+Biomed. Health Inform. 2020, 24, 1569–1578.
+[4] Acharya, U.R.; Fujita, H.; Lih, O.S.; Hagiwara, Y.; Tan, J.H.; Adam, M. Automated detection
+of arrhythmias using different intervals of tachycardia ECG segments with convolutional neural
+network. Inf. Sci. 2017, 405, 81–90.
+[5] Nguyen, Q.H.; Nguyen, B.P.; Nguyen, T.B.; Do, T.T.T.; Mbinta, J.F.; Simpson, C.R. Stacking
+segment-based CNN with SVM for recognition of atrial fibrillation from single-lead ECG
+recordings. Biomed. Signal Process. Control 2021, 68, 102672.
+[6] Tran, L.; Li, Y.; Nocera, L.; Shahabi, C.; Xiong, L. MultiFusionNet: Atrial Fibrillation
+Detection With Deep Neural Networks. AMIA Jt. Summits Transl. Sci. Proc. 2020, 2020,
+654–663. Available online: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233068/ (accessed
+on 26 October 2021). (43)
+26
+[7] X. Zhou, X. Zhu, K. Nakamura and M. Noro, ”Atrial Fibrillation Detection Using Convolutional
+Neural Networks,” 2018 9th International Conference on Awareness Science and Technology
+(iCAST), 2018, pp. 84-89, doi: 10.1109/ICAwST.2018.8517221.
+[8] Fujita, H.; Cimr, D. Computer Aided detection for fibrillations and flutters using deep
+convolutional neural network. Inf. Sci.2019, 486, 231–239.
+[9] Nurmaini, S.; Tondas, A.E.; Darmawahyuni, A.; Rachmatullah, M.N.; Partan, R.U.; Firdaus, F.;
+Tutuko, B.; Pratiwi, F.; Juliano, A.H.; Khoirani, R. Robust detection of atrial fibrillation from
+short-term electrocardiogram using convolutional neural networks. Future Gener. Comput. 2020,
+113, 304–317.
+[10] Faust, O.; Shenfield, A.; Kareem, M.; San, T.R.; Fujita, H.; Acharya, U.R. Automated detection
+of atrial fibrillation using long short-term memory network with RR interval signals. Comput.
+Biol. Med. 2018, 102, 327–335.
+[11] Mousavi, S.; Afghah, F.; Acharya, U.R. HAN-ECG: An interpretable atrial fibrillation detection
+model using hierarchical attention networks. Comput. Biol. Med. 2020, 127, 104057.
+[12] Faust, Oliver, et al. ”Automated detection of atrial fibrillation using long short-term memory
+network with RR interval signals.” Computers in biology and medicine 102 (2018): 327-335.
+[13] Alawneh, Luay, et al. ”A comparison of unidirectional and bidirectional lstm networks for
+human activity recognition.” 2020 IEEE International Conference on Pervasive Computing and
+Communications Workshops (PerCom Workshops). IEEE, 2020.
+[14] Liu, Fan, et al. ”Arrhythmias classification by integrating stacked bidirectional LSTM and
+two-dimensional CNN.” Pacific-Asia Conference on Knowledge Discovery and Data Mining.
+Springer, Cham, 2019.
+[15] Pykes, Kurtis. ”The vanishing/exploding gradient problem
+in deep neural networks.” URL: https://towardsdatascience.
+com/the-vanishing-exploding-gradient-problem-in-deep-neural-networks-191358470c11 (2020).
